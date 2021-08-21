@@ -30,7 +30,7 @@ Market-1501
 ## Run the Code
 ### searching data 
 ```shell script
-python dataset_selection.py --weight 0.6 -- result_dir 'sample_data/'
+python dataset_selection.py --weight 0.6 --result_dir 'sample_data/'
 ``` 
 
 Searched data will be saved in "result_dir". Other parameters, such as the number of clusters, can be set in dataset_selection.py.
