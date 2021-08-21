@@ -35,5 +35,14 @@ python dataset_selection.py --weight 0.6 -- result_dir 'sample_data/'
 
 Searched data will be saved in "result_dir". Other parameters, such as the number of clusters, can be set in dataset_selection.py.
 
-
+## Citation
+Please cite this paper if it helps your research:
+```bibtex
+@inproceedings{sun2021,
+  title={Ranking Models in Unlabeled New Environments},
+  author={Sun, Xiaoxiao and Hou, Yunzhong and Deng, Weijian and Li, Hongdong and Zheng, Liang},
+  booktitle={IEEE Conference on International Conference on Computer Vision (ICCV)},
+  year={2021}
+}
+```
 
